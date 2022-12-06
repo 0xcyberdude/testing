@@ -22,4 +22,4 @@ var swiper = new Swiper(".mySwiper", {
 
 // Initialize ScrollReveal
 
-ScrollReveal().reveal('.reveal', { distance: '150%',origin: 'bottom', opacity: 0, duration: 1000})
+// ScrollReveal().reveal('.reveal', { distance: '150%',origin: 'bottom', opacity: 0, duration: 1000})
