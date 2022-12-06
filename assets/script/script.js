@@ -1,3 +1,5 @@
+ScrollReveal().reveal('.reveal', { distance: '150%',origin: 'bottom', opacity: 0, duration: 1000})
+
 // Initialize Swiper
 
 var swiper = new Swiper(".mySwiper", {
@@ -20,6 +22,3 @@ var swiper = new Swiper(".mySwiper", {
   });
 
 
-
-
-ScrollReveal().reveal('.reveal', { distance: '150%',origin: 'bottom', opacity: 0, duration: 1000})
