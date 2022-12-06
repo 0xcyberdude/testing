@@ -41,6 +41,9 @@
     font-family: "Poppins";
     box-sizing: border-box;
 }
+html{
+    overflow: hidden;
+}
 
 /*
     BODY SECTION
@@ -215,7 +218,6 @@ a {
 @media only screen and (max-width: 450px) {
 
     body {
-        display: grid;
         overflow: hidden;
         justify-content: center;
     }
